@@ -25,7 +25,7 @@ They are usefull while dealing with large amount of data
 
 ### In this course we are gonna use the PostgreSQL. You can use anykind of system you like that's up to you.
 
-### Uses of SQL
+### SQL Platforms
 - MySQL
 - PostgreSQL
 - Oracle Databases

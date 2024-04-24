@@ -10,20 +10,20 @@ Databases are systems that allows user to store and organize data.
 They are usefull while dealing with large amount of data
 
 ### Spreadsheet VS Databases
-SpreadSheet:
+#### SpreadSheet
     - One-time analysis
     - quickly need to chart something out
     - reasonable data size
     - ability for untrained poeple to work with data
 
-Databases:
+#### Databases
     - Data integrity
     - can handle massive amounts of data
     - automate to re use
     - quickly combine different dataset
     - can support data for website and application
 
-## In this course we are gonna use the PostgreSQL. You can use anykind of system you like that's up to you.
+### In this course we are gonna use the PostgreSQL. You can use anykind of system you like that's up to you.
 
 ### Uses of SQL
 - MySQL

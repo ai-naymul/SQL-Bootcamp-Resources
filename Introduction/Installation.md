@@ -35,4 +35,4 @@ Okay, after downloading that file let's procced to the next task.In this task we
 After logging into your database you will able to see the database list there.In the database option click the right button of your mouse there you will see a create option from there create a database by giving a name of the database rest of all should be default.Then you will able to see there is a database created according to the name you given.Right click on that databse to restore then select the specific tar file that we downloaded recently.
 ***Congrats!! You just restored the database using a tar file***
 
-Now you can perform the query's into your database.
+Now you can perform any kind of query's into your database.

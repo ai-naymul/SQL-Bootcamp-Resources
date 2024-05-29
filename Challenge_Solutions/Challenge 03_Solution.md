@@ -1,6 +1,6 @@
 ### Solution - Challenge 03
 
-There are n situation in that challenge so the answers are
+There are 3 situation in that challenge so the answers are
 
 Situation 01: ```SELECT email FROM customer WHERE first_name = 'Nancy' AND last_name = 'Thomas';```
 

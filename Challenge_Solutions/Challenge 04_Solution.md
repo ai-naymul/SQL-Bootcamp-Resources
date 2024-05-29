@@ -1,6 +1,6 @@
 ### Solution - Challenge 04
 
-There are n situation in that challenge so the answers are
+There are 2 situation in that challenge so the answers are
 
 Situation 01: ```SELECT customer_id FROM payment ORDER BY payment_date ASC LIMIT 10;```
 

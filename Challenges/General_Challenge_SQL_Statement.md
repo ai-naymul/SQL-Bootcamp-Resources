@@ -21,9 +21,12 @@ How many payment transactions were greater than $5.00?
 - You will also need to use COUNT and WHERE along with some comparison operator
 
 
-### Solution(Challenge 01)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
-``SELECT COUNT(amount) FROM, payment WHERE amount > 5;``
+
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 
@@ -40,9 +43,12 @@ How many actors have a first name that starts with the letter P?
 - You will also need to use LIKE and a Wildcard operator, such as % or _
 
 
-### Solution(02)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
-``SELECT COUNT(*) FROM actor WHERE first_name LIKE 'P%';``
+
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 ## Challenge 03
@@ -56,9 +62,12 @@ How many unique districts are our customers from?
 - You will also need to use the COUNT and DISTINCT
 
 
-### Solution(Challenge 03)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
-``SELECT COUNT(DISTINCT(district)) FROM address;``
+
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 ## Challenge 04
@@ -73,9 +82,12 @@ Retrieve the list of names for those distinct district from the previous questio
 - This will be very similar to the previous challenge
 
 
-### Solution(Challenge 04)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
-``SELECT DISTINCT(district) FROM address;``
+
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 
@@ -91,10 +103,12 @@ How many films have a rating of R and a replacement cost between $5 and $15?
 - You may also need to use BETWEEN and a WHERE statement with a comparison operator.
 
 
-### Solution(Challenge 05)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
-``SELECT COUNT(*) FROM film WHERE rating = 'R' AND replacement_cost BETWEEN 5 AND 15;``
 
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 ## Challenege 06
@@ -109,10 +123,12 @@ How many films have the word Truman somewhere in the title?
 - You will need to use the film table
 - You will also need to use LIKE and a wildcard operator
 
-### Solution(Challenge 06)
+#### Try to complete the challenge without any hints try atleast, after trying if you got stuck then see the hints and again try to solve it
 
 
-``SELECT COUNT(*) FROM WHERE title LIKE '%Truman%'``
+### Solution
+
+### You tried many times and unable to got there, you also tried to make this happen using those hints but unable to reach the peak, then look at a solution then try your own to make it happen!!!
 
 
 Move the solutions to the solutions folder!!

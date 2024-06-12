@@ -15,5 +15,13 @@ The GROUP BY clause must be appear right after a FROM or WHERE satement.
 
 
 
-<!-- Add the second part of the group by statement -->
+Here are some of the query's that you can perform in the pgadmin:
+
+    1.  ```SELECT customer_id FROM payment GROUP BY customer_id;```
+    2. ``SELECT customer_id, SUM(amount) FROM payment GROUP BY customer_id ORDER BY SUM(amount) DESC;```
+    3. ```SELECT staff_id, customer_id, SUM(amount) FROM payment GROUP BY staff_id, customer_id ORDER BY staff_id, customer_id;``` 
+    4. ```SELECT DATE(payment_date), SUM(amount) FROM payment GROUP BY DATE(payment_date) ORDER BY SUM(amount) DESC;```
+
+
+Cool! That's all about GROUP BY statement. Next thing is there is a challenge reagrding the GROUP BY statement, go ahead and check that out ;)
 
